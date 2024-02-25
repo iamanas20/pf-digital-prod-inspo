@@ -1,0 +1,595 @@
+[
+  {
+    "job": "UI/UX Designer",
+    "products": [
+      {"title": "Interactive UI/UX Design Templates"},
+      {"title": "UX Research Case Studies eBook"},
+      {"title": "Mobile App Design Inspirations Collection"},
+      {"title": "Web Accessibility Guidelines and Checklists"},
+      {"title": "UI/UX Design Trends Video Series"},
+      {"title": "User Persona and Journey Mapping Tools"}
+    ]
+  },
+  {
+    "job": "Software Engineer",
+    "products": [
+      {"title": "Advanced Coding Challenges Subscription"},
+      {"title": "Software Architecture Video Course"},
+      {"title": "Full-Stack Development Mini Projects"},
+      {"title": "Code Optimization and Efficiency Webinar"},
+      {"title": "Emerging Programming Languages Guide"},
+      {"title": "Cloud Integration Best Practices eBook"}
+    ]
+  },
+  {
+    "job": "Digital Marketing Specialist",
+    "products": [
+      {"title": "Digital Marketing Trends & Analytics Dashboard"},
+      {"title": "Social Media Strategy Toolkit"},
+      {"title": "SEO Optimization Step-by-Step Guide"},
+      {"title": "Content Marketing Idea Generator Tool"},
+      {"title": "Email Marketing Templates and Analytics"},
+      {"title": "Online Branding and Identity Course"}
+    ]
+  },
+  {
+    "job": "Product Manager",
+    "products": [
+      {"title": "Product Roadmap and Strategy Templates"},
+      {"title": "Agile & Scrum Masterclass"},
+      {"title": "Competitive Market Analysis Toolkit"},
+      {"title": "User Feedback and Survey Techniques"},
+      {"title": "Product Lifecycle Management Course"},
+      {"title": "Innovation and Ideation Workshop"}
+    ]
+  },
+  {
+    "job": "Customer Support Representative",
+    "products": [
+      {"title": "Customer Service Scenario Simulations"},
+      {"title": "Effective Communication Skills Course"},
+      {"title": "Support Ticket Management System Guide"},
+      {"title": "Multilingual Support Resources"},
+      {"title": "Customer Psychology and Behavior Webinar"},
+      {"title": "Conflict Resolution and De-escalation Techniques"}
+    ]
+  },
+  {
+    "job": "Data Scientist",
+    "products": [
+      {"title": "Machine Learning Algorithms Cheat Sheet"},
+      {"title": "Data Visualization Toolkit"},
+      {"title": "Big Data Analytics E-Book"},
+      {"title": "Python for Data Science Course"},
+      {"title": "Statistical Analysis with R Workshop"},
+      {"title": "AI and Machine Learning Trends Webinar"}
+    ]
+  },
+  {
+    "job": "Front-end Developer",
+    "products": [
+      {"title": "Responsive Web Design Templates"},
+      {"title": "JavaScript Frameworks Comparison Guide"},
+      {"title": "CSS Tricks and Techniques Video Tutorials"},
+      {"title": "Front-end Developer Career Path Course"},
+      {"title": "Web Performance Optimization Checklist"},
+      {"title": "Cross-Browser Compatibility Testing Tools"}
+    ]
+  },
+  {
+    "job": "Back-end Developer",
+    "products": [
+      {"title": "Server-Side Scripting Languages Overview"},
+      {"title": "Database Management Essentials"},
+      {"title": "API Development Best Practices"},
+      {"title": "Microservices Architecture Deep Dive"},
+      {"title": "Back-end Security Checklist"},
+      {"title": "Cloud Services Integration Guide"}
+    ]
+  },
+  {
+    "job": "Full-stack Developer",
+    "products": [
+      {"title": "Full-stack Development Project Ideas"},
+      {"title": "MEAN/MERN Stack Development Guide"},
+      {"title": "End-to-End Testing Frameworks"},
+      {"title": "DevOps for Full-stack Developers"},
+      {"title": "Cross-Platform App Development Tools"},
+      {"title": "Web Application Architecture Insights"}
+    ]
+  },
+  {
+    "job": "Mobile App Developer",
+    "products": [
+      {"title": "Mobile App UI/UX Design Patterns"},
+      {"title": "Android & iOS Development Guide"},
+      {"title": "Cross-Platform Mobile Development Toolkit"},
+      {"title": "Mobile App Monetization Strategies"},
+      {"title": "Mobile App Analytics and Performance Metrics"},
+      {"title": "Augmented Reality in Mobile Apps Workshop"}
+    ]
+  },
+  {
+    "job": "Graphic Designer",
+    "products": [
+      {"title": "Digital Illustration Masterclass"},
+      {"title": "Graphic Design Trends and Inspiration Collection"},
+      {"title": "Branding and Identity Design Workshop"},
+      {"title": "Print and Digital Media Design Toolkit"},
+      {"title": "Typography and Font Pairing Guide"},
+      {"title": "Creative Portfolio Building Course"}
+    ]
+  },
+  {
+    "job": "Content Writer",
+    "products": [
+      {"title": "SEO Writing for Web Success"},
+      {"title": "Creative Writing Prompt Generator"},
+      {"title": "Copywriting Formulas and Templates"},
+      {"title": "Blogging Essentials and Monetization Strategies"},
+      {"title": "Freelance Writing Business Kit"},
+      {"title": "Content Marketing Analytics and ROI Calculator"}
+    ]
+  },
+  {
+    "job": "SEO Specialist",
+    "products": [
+      {"title": "Advanced SEO Tactics and Strategy Guide"},
+      {"title": "Keyword Research Tools and Techniques"},
+      {"title": "On-Page and Off-Page SEO Checklist"},
+      {"title": "Link Building and Content Outreach Strategies"},
+      {"title": "Local SEO Optimization Toolkit"},
+      {"title": "Technical SEO Audit Framework"}
+    ]
+  },
+  {
+    "job": "Project Manager",
+    "products": [
+      {"title": "Project Management Templates and Checklists"},
+      {"title": "Agile Project Management Crash Course"},
+      {"title": "Risk Management and Mitigation Strategies"},
+      {"title": "Stakeholder Communication Plan Templates"},
+      {"title": "Project Budgeting and Cost Estimation Tools"},
+      {"title": "Time Management and Productivity Hacks"}
+    ]
+  },
+  {
+    "job": "Quality Assurance Engineer",
+    "products": [
+      {"title": "Software Testing Frameworks and Best Practices"},
+      {"title": "Automated Testing Tools and Techniques"},
+      {"title": "Bug Tracking and Reporting System Guide"},
+      {"title": "QA Career Development Course"},
+      {"title": "Performance and Load Testing Workshop"},
+      {"title": "User Acceptance Testing Checklist"}
+    ]
+  },
+  {
+    "job": "Systems Analyst",
+    "products": [
+      {"title": "Systems Analysis and Design Handbook"},
+      {"title": "Business Process Modeling Tools"},
+      {"title": "Enterprise Software Requirements Template"},
+      {"title": "IT Systems Integration Strategies"},
+      {"title": "Data Flow Diagramming Techniques"},
+      {"title": "Systems Analyst Skill Development Course"}
+    ]
+  },
+  {
+    "job": "Network Administrator",
+    "products": [
+      {"title": "Network Configuration and Troubleshooting Guide"},
+      {"title": "Cybersecurity Best Practices Handbook"},
+      {"title": "Network Performance Monitoring Tools"},
+      {"title": "Wireless Networking Setup and Security"},
+      {"title": "Cloud Networking Essentials"},
+      {"title": "Advanced Network Administration Certifications Prep"}
+    ]
+  },
+  {
+    "job": "UI/UX Researcher",
+    "products": [
+      {"title": "User Experience Research Methods eBook"},
+      {"title": "UX Survey and Interview Templates"},
+      {"title": "Usability Testing Toolkit"},
+      {"title": "UX Research Data Analysis Course"},
+      {"title": "Ethnographic Research Techniques for UI/UX"},
+      {"title": "Cross-Device UX Evaluation Strategies"}
+    ]
+  },
+  {
+    "job": "DevOps Engineer",
+    "products": [
+      {"title": "Continuous Integration/Continuous Deployment Guide"},
+      {"title": "Cloud Infrastructure Management Course"},
+      {"title": "Containerization with Docker and Kubernetes"},
+      {"title": "DevOps Toolchain Essentials"},
+      {"title": "Monitoring and Logging Best Practices"},
+      {"title": "Infrastructure as Code Workshop"}
+    ]
+  },
+  {
+    "job": "Sales Representative",
+    "products": [
+      {"title": "Sales Techniques and Strategies eBook"},
+      {"title": "CRM Software Mastery Course"},
+      {"title": "Lead Generation and Nurturing Toolkit"},
+      {"title": "Effective Communication in Sales Webinar"},
+      {"title": "Negotiation Skills and Closing Deals Workshop"},
+      {"title": "Sales Performance Analytics Dashboard"}
+    ]
+  },
+  {
+    "job": "Business Analyst",
+    "products": [
+      {"title": "Business Analysis Fundamentals Course"},
+      {"title": "Market Research Data Collection and Analysis Tools"},
+      {"title": "SWOT Analysis Interactive Templates"},
+      {"title": "Business Process Improvement Workshop"},
+      {"title": "Stakeholder Management Strategies eBook"},
+      {"title": "Financial Modeling and Forecasting Techniques"}
+    ]
+  },
+  {
+    "job": "Financial Analyst",
+    "products": [
+      {"title": "Advanced Financial Analysis and Modeling Course"},
+      {"title": "Investment Strategies and Market Trends eBook"},
+      {"title": "Corporate Finance Essentials Guide"},
+      {"title": "Economic Indicators and Analysis Tools"},
+      {"title": "Risk Management in Finance Webinar"},
+      {"title": "Portfolio Management Toolkit"}
+    ]
+  },
+  {
+    "job": "Human Resources Specialist",
+    "products": [
+      {"title": "HR Compliance and Best Practices Guide"},
+      {"title": "Employee Onboarding and Training Modules"},
+      {"title": "Performance Management System Handbook"},
+      {"title": "Diversity and Inclusion Workshop"},
+      {"title": "Talent Acquisition and Recruitment Toolkit"}
+    ]
+  },
+  {
+    "job": "Legal Counsel",
+    "products": [
+      {"title": "Legal Document Templates for Various Cases"},
+      {"title": "Continuing Legal Education (CLE) Online Courses"},
+      {"title": "Legal Research and Writing Toolkit"},
+      {"title": "Contract Review and Negotiation Strategies"},
+      {"title": "Intellectual Property Law Guide"},
+      {"title": "Legal Ethics and Professional Responsibility Course"}
+    ]
+  },
+  {
+    "job": "UX/UI Developer",
+    "products": [
+      {"title": "Advanced UI Development with JavaScript Frameworks"},
+      {"title": "UX Principles for Developers Course"},
+      {"title": "Responsive Design Techniques Workshop"},
+      {"title": "Accessibility in Web Development Guide"},
+      {"title": "Front-end Development Tools and Libraries"},
+      {"title": "Interactive Prototyping with Modern Tools"}
+    ]
+  },
+  {
+    "job": "Machine Learning Engineer",
+    "products": [
+      {"title": "Deep Learning and Neural Networks Course"},
+      {"title": "Predictive Analytics using Machine Learning"},
+      {"title": "Natural Language Processing Toolkit"},
+      {"title": "Computer Vision Projects and Tutorials"},
+      {"title": "Reinforcement Learning Explained"},
+      {"title": "AI Ethics and Responsible AI Practices"}
+    ]
+  },
+  {
+    "job": "Cloud Solutions Architect",
+    "products": [
+      {"title": "Cloud Computing Fundamentals for Architects"},
+      {"title": "Designing Scalable Cloud Infrastructure Workshop"},
+      {"title": "Cloud Security Best Practices Guide"},
+      {"title": "Serverless Architecture and Solutions"},
+      {"title": "Cloud Service Providers Comparison"},
+      {"title": "High Availability and Disaster Recovery in the Cloud"}
+    ]
+  },
+  {
+    "job": "UI/UX Manager",
+    "products": [
+      {"title": "Leadership in Design Management Course"},
+      {"title": "Effective UI/UX Team Collaboration Strategies"},
+      {"title": "Building a User-Centric Design Culture"},
+      {"title": "Design Thinking and Innovation Workshop"},
+      {"title": "UI/UX Project Management Tools"},
+      {"title": "Metrics and KPIs for UI/UX Success"}
+    ]
+  },
+  {
+    "job": "Cybersecurity Analyst",
+    "products": [
+      {"title": "Cybersecurity Threats and Mitigation Handbook"},
+      {"title": "Network Security Best Practices"},
+      {"title": "Ethical Hacking and Penetration Testing Course"},
+      {"title": "Incident Response and Forensics"},
+      {"title": "Data Privacy and Protection Guidelines"},
+      {"title": "Cybersecurity Compliance and Regulations Overview"}
+    ]
+  },
+  {
+    "job": "Database Administrator",
+    "products": [
+      {"title": "Database Optimization Techniques"},
+      {"title": "SQL Mastery Course"},
+      {"title": "NoSQL Databases Guide"},
+      {"title": "Database Backup and Recovery Strategies"},
+      {"title": "Data Warehousing and Business Intelligence"},
+      {"title": "Cloud Database Management Systems Overview"}
+    ]
+  },
+  {
+    "job": "UI/UX Intern",
+    "products": [
+      {"title": "Introduction to UI/UX Design Course"},
+      {"title": "UI/UX Design Portfolio Building Tips"},
+      {"title": "User Testing and Feedback Collection Techniques"},
+      {"title": "Graphic Design Basics for UI/UX"},
+      {"title": "Web Prototyping Tools and Techniques"},
+      {"title": "Career Path in UI/UX Design Webinar"}
+    ]
+  },
+  {
+    "job": "Technical Writer",
+    "products": [
+      {"title": "Technical Writing for Beginners Course"},
+      {"title": "Documenting Software and Systems Guide"},
+      {"title": "Creating User Manuals and Help Guides"},
+      {"title": "Writing Clear and Effective SOPs"},
+      {"title": "API Documentation Best Practices"},
+      {"title": "Technical Editing and Review Techniques"}
+    ]
+  },
+  {
+    "job": "E-commerce Specialist",
+    "products": [
+      {"title": "E-commerce Store Optimization Strategies"},
+      {"title": "Online Sales Funnel Creation Guide"},
+      {"title": "Digital Marketing for E-commerce Course"},
+      {"title": "E-commerce Analytics and Conversion Rate Optimization"},
+      {"title": "Customer Journey Mapping for Online Stores"},
+      {"title": "E-commerce Platform Selection and Setup"}
+    ]
+  },
+  {
+    "job": "Scrum Master",
+    "products": [
+      {"title": "Agile and Scrum Fundamentals Course"},
+      {"title": "Scrum Master Toolkit for Team Facilitation"},
+      {"title": "Effective Sprint Planning and Review Techniques"},
+      {"title": "Agile Metrics and Reporting Guide"},
+      {"title": "Scrum Master Certification Prep"},
+      {"title": "Team Building and Motivation in Agile Environment"}
+    ]
+  },
+  {
+    "job": "IoT Developer",
+    "products": [
+      {"title": "Internet of Things (IoT) Development Course"},
+      {"title": "Building Smart Home Applications"},
+      {"title": "IoT Security Best Practices"},
+      {"title": "Wireless Communication in IoT"},
+      {"title": "IoT Prototyping and Testing Tools"},
+      {"title": "Data Analytics in IoT"}
+    ]
+  },
+  {
+    "job": "Customer Success Manager",
+    "products": [
+      {"title": "Customer Success Strategies and Frameworks"},
+      {"title": "Building Long-Term Customer Relationships"},
+      {"title": "Customer Journey Mapping for Success Managers"},
+      {"title": "Customer Retention and Loyalty Programs"},
+      {"title": "Effective Upselling and Cross-Selling Techniques"},
+      {"title": "Analytics for Customer Success Management"}
+    ]
+  },
+  {
+    "job": "UI/UX Consultant",
+    "products": [
+      {"title": "Comprehensive UI/UX Consulting Framework"},
+      {"title": "Design Audit and Evaluation Toolkit"},
+      {"title": "Building a Freelance UI/UX Consulting Business"},
+      {"title": "Strategic Design Thinking Workshop"},
+      {"title": "Client Communication and Management for Designers"},
+      {"title": "Latest Trends in UI/UX"}
+    ]
+  },
+  {
+    "job": "IT Support Specialist",
+    "products": [
+      {"title": "IT Troubleshooting and Support Handbook"},
+      {"title": "Helpdesk and Technical Support Course"},
+      {"title": "Network and Systems Administration Essentials"},
+      {"title": "Managing IT Infrastructure"},
+      {"title": "Cybersecurity for IT Support"},
+      {"title": "Customer Service Skills for IT Professionals"}
+    ]
+  },
+  {
+    "job": "Product Owner",
+    "products": [
+      {"title": "Product Ownership Essentials Course"},
+      {"title": "Backlog Management and Prioritization Tools"},
+      {"title": "User Story Mapping and Creation Workshop"},
+      {"title": "Stakeholder Engagement and Management"},
+      {"title": "Market Research for Product Owners"},
+      {"title": "Agile Product Development Strategies"}
+    ]
+  },
+  {
+    "job": "Social Media Manager",
+    "products": [
+      {"title": "Social Media Content Calendar Templates"},
+      {"title": "Viral Marketing and Content Creation Course"},
+      {"title": "Social Media Analytics and Reporting"},
+      {"title": "Building Brand Presence on Social Media"},
+      {"title": "Social Media Crisis Management Guide"},
+      {"title": "Influencer Partnership Strategies"}
+    ]
+  },
+  {
+    "job": "Business Development Manager",
+    "products": [
+      {"title": "Business Development Strategies and Tactics"},
+      {"title": "Networking and Relationship Building Course"},
+      {"title": "Market Expansion and Diversification Guide"},
+      {"title": "Sales Pipeline Management Tools"},
+      {"title": "Proposal Writing and Negotiation Skills"},
+      {"title": "Performance Metrics for Business Growth"}
+    ]
+  },
+  {
+    "job": "ERP Consultant",
+    "products": [
+      {"title": "ERP System Selection and Implementation Guide"},
+      {"title": "Customizing ERP Solutions for Businesses"},
+      {"title": "Business Process Mapping for ERP Integration"},
+      {"title": "Training Modules for ERP Users"},
+      {"title": "ERP System Upgrade and Migration Strategies"},
+      {"title": "Analyzing Business Needs for ERP Solutions"}
+    ]
+  },
+  {
+    "job": "Accountant",
+    "products": [
+      {"title": "Accounting Fundamentals Course"},
+      {"title": "Tax Preparation and Planning Guide"},
+      {"title": "Financial Reporting and Analysis Tools"},
+      {"title": "Bookkeeping Strategies for Small Businesses"},
+      {"title": "Audit Preparation and Compliance Checklist"},
+      {"title": "Advanced Excel for Accountants"}
+    ]
+  },
+  {
+    "job": "Architect",
+    "products": [
+      {"title": "Architectural Design Software Tutorials"},
+      {"title": "Sustainable Architecture Course"},
+      {"title": "3D Modeling and Visualization Tools"},
+      {"title": "Building Codes and Regulations Guide"},
+      {"title": "Project Management for Architects"},
+      {"title": "Historic Architecture Restoration Techniques"}
+    ]
+  },
+  {
+    "job": "Civil Engineer",
+    "products": [
+      {"title": "Civil Engineering Fundamentals Course"},
+      {"title": "Construction Project Management Templates"},
+      {"title": "Structural Analysis and Design Software Guide"},
+      {"title": "Sustainable Building Materials and Techniques"},
+      {"title": "Geotechnical Engineering Handbook"},
+      {"title": "Transportation Engineering and Planning Tools"}
+    ]
+  },
+  {
+    "job": "Nurse",
+    "products": [
+      {"title": "Nursing Skills Refresher Course"},
+      {"title": "Patient Care and Management Handbook"},
+      {"title": "Advanced Pharmacology for Nurses"},
+      {"title": "Nursing Ethics and Professional Development"},
+      {"title": "Health Assessment and Diagnosis Tools"},
+      {"title": "Emergency Nursing Procedures Guide"}
+    ]
+  },
+  {
+    "job": "Pharmacist",
+    "products": [
+      {"title": "Pharmacology and Drug Interactions Course"},
+      {"title": "Medication Therapy Management Toolkit"},
+      {"title": "Pharmacy Law and Ethics Update"},
+      {"title": "Clinical Pharmacy Case Studies"},
+      {"title": "Community Pharmacy Management"},
+      {"title": "Prescription Processing and Safety Protocols"}
+    ]
+  },
+  {
+    "job": "Teacher",
+    "products": [
+      {"title": "Innovative Teaching Techniques Course"},
+      {"title": "Classroom Management and Engagement Strategies"},
+      {"title": "Curriculum Development and Planning Tools"},
+      {"title": "Educational Technology Integration Guide"},
+      {"title": "Student Assessment and Feedback Systems"},
+      {"title": "Special Education Teaching Methods"}
+    ]
+  },
+  {
+    "job": "Police Officer",
+    "products": [
+      {"title": "Law Enforcement Training Modules"},
+      {"title": "Community Policing Strategies Course"},
+      {"title": "Criminal Investigation Techniques Guide"},
+      {"title": "Traffic Management and Road Safety"},
+      {"title": "First Responder Emergency Skills"},
+      {"title": "Cybercrime Awareness and Prevention"}
+    ]
+  },
+  {
+    "job": "Chef",
+    "products": [
+      {"title": "Culinary Arts Masterclass"},
+      {"title": "Professional Kitchen Management Course"},
+      {"title": "Recipe Development and Menu Planning"},
+      {"title": "Food Safety and Hygiene Guide"},
+      {"title": "Cuisine-Specific Cooking Techniques"},
+      {"title": "Pastry and Baking Fundamentals"}
+    ]
+  },
+  {
+    "job": "Electrician",
+    "products": [
+      {"title": "Electrical Systems and Safety Course"},
+      {"title": "Wiring and Installation Techniques Guide"},
+      {"title": "Smart Home Automation Tutorials"},
+      {"title": "Industrial Electrical Maintenance Handbook"},
+      {"title": "Renewable Energy Systems Installation"},
+      {"title": "National Electrical Code (NEC) Updates"}
+    ]
+  },
+  {
+    "job": "Plumber",
+    "products": [
+      {"title": "Plumbing Basics and Advanced Techniques Course"},
+      {"title": "Water Systems and Filtration Guide"},
+      {"title": "Piping and Fixture Installation Handbook"},
+      {"title": "Commercial Plumbing Systems Overview"},
+      {"title": "Green Plumbing and Water Conservation"},
+      {"title": "Plumbing Code Compliance Checklist"}
+    ]
+  },
+  {
+    "job": "Mechanical Engineer",
+    "products": [
+      {"title": "Mechanical Engineering Fundamentals Course"},
+      {"title": "CAD and 3D Modeling Software Tutorials"},
+      {"title": "Thermodynamics and Fluid Mechanics Guide"},
+      {"title": "Materials Science and Engineering Handbook"},
+      {"title": "Mechanical Systems Design and Analysis"},
+      {"title": "Robotics and Automation Workshop"}
+    ]
+  },
+  {
+    "job": "Interior Designer",
+    "products": [
+      {"title": "Interior Design Concepts and Styles Course"},
+      {"title": "Space Planning and Furniture Layout Guide"},
+      {"title": "Color Theory and Application in Design"},
+      {"title": "3D Interior Visualization Techniques"},
+      {"title": "Sustainable and Eco-Friendly Design Principles"},
+      {"title": "Client Presentation and Communication Skills"}
+    ]
+  }
+]
