@@ -9,13 +9,13 @@
     "build": "vite build",
     "serve": "vite preview",
     "lint": "eslint src",
-    "lint:fix": "eslint src --fix && pnpm format",
+    "lint:fix": "eslint src --fix && npm format",
     "type-check": "tsc",
-    "check:turbo": "pnpm dlx turbo@latest lint type-check",
+    "check:turbo": "npm dlx turbo@latest lint type-check",
     "knip": "knip",
     "format": "prettier --write src",
-    "up-interactive": "pnpm up -i",
-    "up-latest": "pnpm up-interactive -L",
+    "up-interactive": "npm up -i",
+    "up-latest": "npm up-interactive -L",
     "release": "standard-version",
     "push-release": "git push --follow-tags origin main"
   },
@@ -52,9 +52,5 @@
     "vite-plugin-checker": "^0.6.2",
     "vite-plugin-pwa": "^0.17.4",
     "vite-tsconfig-paths": "^4.2.2"
-  },
-  "engines": {
-    "node": ">=16.x.x",
-    "pnpm": ">=8"
   }
 }
